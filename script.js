@@ -1,6 +1,6 @@
-// METEHAN YANIT ACM 365 PROJECT SECTION 3 20191311003
+// METEHAN YANIT ACM 365 PROJECT SECTION 3 20191311003 
 // Country Guess Game
-//inhertince objects
+
 // Define a function to reveal a hidden fact
 function reveal(event, fact) {
   // Get the target element (the span containing the fact)
